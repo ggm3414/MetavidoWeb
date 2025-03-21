@@ -1,2 +1,0 @@
-# MetavidoWeb
-Metavido Web
